@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SorawoAruku
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning C and Python.
+- 📫 How to reach me? You can contact me through my email: 
