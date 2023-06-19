@@ -4,7 +4,7 @@ As a passionate computer science student, I am driven by the pursuit of knowledg
 
 Skills: Next.js / React
 
-- 🔭 I’m currently working on [**UPMin Events**](upmin-events.vercel.app)
+- 🔭 I’m currently working on [**UPMin Events**](https://upmin-events.vercel.app/)
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [https://github.com/ASPactores](https://github.com/ASPactores)
 - 📫 How to reach me **anakin.pactores@gmail.com**
